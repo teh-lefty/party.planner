@@ -1,0 +1,11 @@
+h1 {
+  color: red;
+}
+.events {
+  display: flex;
+  justify-content: center;
+}
+.event {
+  border: 1px solid grey;
+  width: 480px;
+}
